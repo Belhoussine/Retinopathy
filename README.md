@@ -1,5 +1,5 @@
 # Medical Image Processing: Retinal Fundus Disease Detection
-
+![Retina Blood Vessel Segmentation](images/vessel.png)
 ## Goal:
 ### Identify potential diseases, such as diabetes, based on retinal fundus images.
 
